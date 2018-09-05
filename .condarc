@@ -1,0 +1,12 @@
+channels:
+- defaults
+
+show_channel_urls: True
+allow_other_channels: True
+
+proxy_servers:
+    http: http://Sahil_Bhalla:lol@proxy:80
+    https: http://Sahil_Bhalla:lol@proxy:80
+
+
+ssl_verify: False
